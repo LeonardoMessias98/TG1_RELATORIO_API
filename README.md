@@ -48,8 +48,8 @@ Neste projeto inicialmente fomos uma equipe de 5 integrantes, sendo assim cada u
 
 #### Soft Skills
 * Resiliência - Sendo nosso primeiro projeto dentro da faculdade enfrentamos muitos contra tempos, e a resiliência foi de grande ajuda nesse projeto.
-* Trabalho em equipe - O Trabalho em equipe e saber lidar com pessoas foram de muita importanca nesse projeto, pois sabemos que trabalhar em equipe nunca é facil e nem sempre todos tem o mesmo compromisso com o projeto, então saber lidar com isso foi de extrema importância.
-* Comunicação - A Comunicação também foi muito importante para este projeto, pois sem ela não conseguiriamos definir as metas e o escopo do projeto corretamente.
+* Trabalho em equipe - O Trabalho em equipe e saber lidar com pessoas foram de muita importância nesse projeto, pois sabemos que trabalhar em equipe nunca é fácil e nem sempre todos tem o mesmo compromisso com o projeto, então saber lidar com isso foi de extrema importância.
+* Comunicação - A Comunicação também foi muito importante para este projeto, pois sem ela não conseguiríamos definir as metas e o escopo do projeto corretamente.
 
 ### Em 2020-1
 Nosso projeto surgiu em prol de sanar uma necessidade de nosso cliente SPC BRASIL. A ferramenta, que conta com um design intuitivo e funcional, tem por objetivo ser utilizada como Data Preparation, auxiliando assim, na padronização de grandes lotes de dados antes de serem aplicados em futuros projetos.
@@ -81,7 +81,7 @@ Neste projeto inicialmente fomos uma equipe de 5 integrantes, sendo assim cada u
 * Resiliência - Este projeto foi mais complexo que o anterior, então entramos de cabeça em tecnologias diferentes e por conta disso foi bem puxado, porém conseguimos manter o foco e a resiliência foi essencial.
 * Pensamento crítico - Nesse projeto houveram grandes mudanças em relação ao primeiro, uma grande parte dessas mudanças foram que nos como equipes tivemos que saber levantar os requisitos do Software com o cliente, o pensamento critico nos ajudou muito nessa hora.
 * Trabalho em equipe / Saber lidar com pessoas - Nesse projeto também foi de extrema importância saber lidar com a equipe, aconteceram algumas desavenças internas e foi essencial saber lidar com a equipe para poder resolve-lá.
-* Liderança - Nesse projeto além de Dev Team trabalhei como Scrum Master, e por mais que o Scrum Master não seja o lider da equipe ele é quem é o responsável por definir as metas acompanhar a equipe durante as sprints para que todos consigam atingir seus objetivos.
+* Liderança - Nesse projeto além de Dev Team trabalhei como Scrum Master, e por mais que o Scrum Master não seja o lider da equipe ele é quem é o responsável por definir as metas e acompanhar a equipe durante as sprints para que todos consigam atingir seus objetivos.
 
 ### Em 2020-2
 VisGeo surgiu através da necessidade de nosso cliente em possuir uma ferramenta ETL (Extract, Transform and Load) de baixo custo, então ficou como nosso objetivo conseguir desenvolver uma ferramenta capaz de Extrair, Transformar e Carregar dados georreferenciados extraídos de shapefiles. Em nosso desenvolvimento também focamos em trazer uma melhor experiência e acessibilidade para o usuário, por esse motivo escolhemos que a ferramente fosse um sistema (web) e também responsiva para dispositivos moveis.
@@ -128,10 +128,10 @@ Neste projeto inicialmente fomos uma equipe de 9 integrantes, sendo assim cada u
 
 
 ## Meus Principais Conhecimentos
-* React.Js - ReactJs hoje é o Framework que possuo maior domínio, comecei a utiliza-lo no inicia de 2020 e um pouco mais na metade do mesmo ano consegui minha primeira vaga como desenvolver ReactJs, hoje sigo na mesma empresa trabalhando diariamente utilizando React, Redux, ContextApi e outros.
+* React.Js - ReactJs hoje é o Framework que possuo maior domínio, comecei a utilizar-lo no início de 2020 e um pouco mais na metade do mesmo ano consegui minha primeira vaga como desenvolver ReactJs, hoje sigo na mesma empresa trabalhando diariamente utilizando React, Redux, ContextApi e outros.
 * Typescript - Comecei a utilizar Typescript no final de 2020, confesso que no começo foi um pouco complexo de entender o motivo de sua utilização, mas hoje tento pleno conhecimento sempre quando posso opito utiliza-los em meus projetos dentro e fora da Fatec.
 * Git - Meu primeiro contato com Git foi dentro da Fatec no final de 2019, hoje acredito ter pleno dominio sobre essa ferramenta, utilizo diáriamente no meu serviço e também nos meus projetos dentro e fora da Fatec.
-* Trabalho em equipe - Desenvolver o trabalho em equipe foi essencial para minha carreira profissional, embora tenha levado um tempo até entender o verdadeiro objetivo por trás do desenvolvimento de software, acredito que hoje é uma das minha maiores qualidades.
+* Trabalho em equipe - Desenvolver o trabalho em equipe foi essencial para minha carreira profissional, embora tenha levado um tempo até entender o verdadeiro objetivo por trás do desenvolvimento de software, acredito que hoje é uma das minhas maiores qualidades.
 
 ## Contatos
 * <a href="https://github.com/LeonardoMessias98">GITHUB</a>
