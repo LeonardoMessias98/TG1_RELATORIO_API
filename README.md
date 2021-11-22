@@ -131,27 +131,27 @@ Neste projeto inicialmente fomos uma equipe de 9 integrantes, sendo assim cada u
 
 
 ### Em 2021-1
-O Typext nasceu com o objetivo de criar uma ferramenta capaz de auxiliar a IACIT em uma necessidade no processo interno de criação e gerenciamento atas de reuniões. Nossa ferramenta foi um sistema Web, capaz de não só criar atas como também revisar e corrigi-las, assim gerando logs de cada ação do usuário, no final para publicar a ata era necessário que todos os usuários assinassem digitalmente, assim logo em seguida enviando a copia do documento via email.
+O Typext nasceu com o objetivo de criar uma ferramenta capaz de auxiliar a IACIT em uma necessidade no processo interno de criação e gerenciamento atas de reuniões. Nossa ferramenta foi um sistema Web, capaz de não só criar atas como também revisar e corrigi-las, assim gerando logs de cada ação do usuário, no final para publicar a ata era necessário que todos os usuários assinassem digitalmente, assim logo em seguida enviando a cópia do documento via e-mail.
 
 ![image](https://user-images.githubusercontent.com/56441371/112768034-52dbed80-8ff0-11eb-8a72-5190c56f1090.png)
 
 
 #### Tecnologias Utilizadas
-Typext é um sistema web, e em seu desenvolvimento escolhemos utilizar algumas tecnologias cujo tinhamos uma maior afinidade, pois trabalhamos utilizando essas ferramentas no dia a dia. Para criação de telas do Typext utilizamos ReactJs com NextJs e Styled Components, também utilizamos Typescript por conta da tipagem e da orientação a objetivos. No Backend utilizamos NodeJs, PostgreSQL como banco de dados, Typescript por conta dos beneficios citados, Docker e Jest para teste unitários.
+Typext é um sistema web, e em seu desenvolvimento escolhemos utilizar algumas tecnologias cujo tínhamos uma maior afinidade, pois trabalhamos utilizando essas ferramentas no dia a dia. Para criação de telas do Typext utilizamos ReactJs com NextJs e Styled Components, também utilizamos Typescript por conta da tipagem e da orientação a objetivos. No Backend utilizamos NodeJs, PostgreSQL como banco de dados, Typescript por conta dos benefícios citados, Docker e Jest para testes unitários.
 
 ![image](https://user-images.githubusercontent.com/56441371/112768909-c122af00-8ff4-11eb-98b4-5c08e4501299.png)
 
-* NodeJs - NodeJs é um ambiente de tempo de execução que é executado no mecanismo V8 do Chrome e executa o código JavaScript fora de um navegador da web. Escolhemos utiliza-lo pois além do NodeJs ser uma excelente escolha para criação de serviços backend também a qual tinhamos mais afinidade.
+* NodeJs - NodeJs é um ambiente de tempo de execução que é executado no mecanismo V8 do Chrome e executa o código JavaScript fora de um navegador da web. Escolhemos utiliza-lo, pois além do NodeJs ser uma excelente escolha para criação de serviços backend também a qual tínhamos mais afinidade.
 
-* TypeScript - TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. Escolhemos utilizar Typescript por conta dos beneficios que ele nos trás como tipagem estáticas e também facilidades em poder escrever códigos oientados a objetos .
+* TypeScript - TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. Escolhemos utilizar Typescript por conta dos benefícios que ele nos trás como tipagem estáticas e também facilidades em poder escrever códigos orientados a objeto.
 
 * ReactJs - O ReactJs é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. Escolhemos utilizar esse Framework pois para nossa equipe atualmente o ReactJs é o melhor Framework para criação de interfaces, além de que nossa equipe também possuia uma grande afinidade com essa ferramenta.
 
-* NextJS - NextJ é uma estrutura da web de desenvolvimento front-end React criada por Vercel que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para aplicativos da web baseados em React. Escolhemos utilizar NextJs por conta de seus beneficios como Server-Side-Rendering e Static-Site-Generation.
+* NextJS - NextJ é uma estrutura da web de desenvolvimento front-end React criada por Vercel que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para aplicativos da web baseados em React. Escolhemos utilizar NextJs por conta de seus benefícios como Server-Side-Rendering e Static-Site-Generation.
 
-* PostgreSQL - PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto. Escolhemos utilizar esse banco pois além de ser um excelente banco, era o que mais tinhamos conhecimento.
+* PostgreSQL - PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto. Escolhemos utilizar esse banco pois além de ser um excelente banco, era o que mais tínhamos conhecimento.
 
-* Docker - Escolhemos utilizar o Docker no desenvolvimento do projeto, pois em sua utilização era nos facilitados rodar os nossos serviços em poucos passos
+* Docker - Escolhemos utilizar o Docker no desenvolvimento do projeto, pois em sua utilização era nos facilitado rodar os nossos serviços em poucos passos
 
 * Jest - Jest é uma estrutura de teste de JavaScript mantida pelo Facebook, Inc. projetada e construída por Christoph Nakazawa com foco na simplicidade e suporte para grandes aplicativos da web.
 
@@ -160,7 +160,7 @@ Typext é um sistema web, e em seu desenvolvimento escolhemos utilizar algumas t
 * Swagger - Swagger é uma linguagem de descrição de interface para descrever APIs RESTful expressas usando JSON. O Swagger é usado junto com um conjunto de ferramentas de software de código aberto para projetar, construir, documentar e usar serviços da Web RESTful.
 
 #### Contribuições Pessoais
-Como no projeto anterior separamos a equipe em 2 squads, sendo o squad do Frontend e do Backend. Nesse projeto eu trabalhei no Squad do Frontend como desenvolvedor, fiquei responsável pela criação geral das telas na plataforma, sistema de autenticação, resposividade para mobile, arquitetura do projeto e também pela criação das atas em pdf, também fiz a integração do nosso frontend com nosso serviço backend via Api Rest,
+Como no projeto anterior separamos a equipe em 2 squads, sendo o squad do Frontend e do Backend. Nesse projeto eu trabalhei no Squad do Frontend como desenvolvedor, fiquei responsável pela criação geral das telas na plataforma, sistema de autenticação, responsividade para mobile, arquitetura do projeto e também pela criação das atas em PDF, também fiz a integração do nosso frontend com nosso serviço backend via Api Rest.
 
 #### Hard Skills
 * Desenvolvimento com ReactJs: sei fazer com autonomia.
@@ -179,7 +179,7 @@ Como no projeto anterior separamos a equipe em 2 squads, sendo o squad do Fronte
 
 
 ### Em 2021-2
-Cars-on é um sistema web completo para venda e compras de carros online. Em nosso sistema o usuário administrador consegue subir anuncios e usuários em formato CSV, assim podendo subi-los em massa. Para o usuário comum ele será restrito a subir apenas anuncios, porém terá uma plataforma completa para vender e comprar carros online. Nossa plataforma possuí diversos filtros para facilitar o usuário a encontrar o seu carro ideal, também possuimos um Chat online onde o usuário poderá ter uma comunicação em tempo real com o possível comprador/vendedor.
+Cars-on é um sistema web completo para venda e compras de carros online. Em nosso sistema o usuário administrador consegue subir anúncios e usuários em formato CSV, assim podendo subi-los em massa. Para o usuário comum ele será restrito a subir apenas anúncios, porém terá uma plataforma completa para vender e comprar carros online. Nossa plataforma possui diversos filtros para facilitar o usuário a encontrar o seu carro ideal, também possuímos um Chat online onde o usuário poderá ter uma comunicação em tempo real com o possível comprador/vendedor.
 
 ![image](https://user-images.githubusercontent.com/54003876/133915603-84a02ac8-f7a3-4c90-bca8-dca231fe6778.png)
 
@@ -189,7 +189,7 @@ Para o desenvolvimento das telas utilizamos ReactJs com Styled Components, NextJ
 
 ![image](https://user-images.githubusercontent.com/54003876/133913883-b2548894-17a7-4958-909e-8b110eb760d8.png)
 
-* ReactJs - O ReactJs é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. Escolhemos utilizar esse Framework pois para nossa equipe atualmente o ReactJs é o melhor Framework para criação de interfaces, além de que nossa equipe também possuia uma grande afinidade com essa ferramenta.
+* ReactJs - O ReactJs é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. Escolhemos utilizar esse Framework pois para nossa equipe atualmente o ReactJs é o melhor Framework para criação de interfaces, além de que nossa equipe também possuía uma grande afinidade com essa ferramenta.
 
 * NextJS - NextJ é uma estrutura da web de desenvolvimento front-end React criada por Vercel que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para aplicativos da web baseados em React. Escolhemos utilizar NextJs por conta de seus beneficios como Server-Side-Rendering e Static-Site-Generation.
 
@@ -205,7 +205,7 @@ Para o desenvolvimento das telas utilizamos ReactJs com Styled Components, NextJ
 
  
 #### Contribuições Pessoais
-Nesse projeto trabalhamos com um time menor, inicialmente com 5 desenvolvedores porém finalizamos o projeto com apenas 4. Como no projeto anterior também separamos o time em 2 Squads. Minha atuação nesse projeto foi como desenvolvedor Frontend, trabalhei na criação das telas da plataforma, e também na integração com nosso serviço backend, fazendo upload de arquivos CSVs e etc.
+Nesse projeto trabalhamos com um time menor, inicialmente com 5 desenvolvedores, porém finalizamos o projeto com apenas 4. Como no projeto anterior também separamos o time em 2 Squads. Minha atuação nesse projeto foi como desenvolvedor Frontend, trabalhei na criação das telas da plataforma, e também na integração com nosso serviço backend, fazendo upload de arquivos CSVs e etc.
 
 #### Hard Skills
 * Desenvolvimento com ReactJs: sei fazer com autonomia.
