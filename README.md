@@ -1,7 +1,10 @@
 # Leonardo Messias Rodrigues Lopes
 
 ## Introdução
-Meu nome é Leonardo Messias, tenho 23 anos, sou Desenvolvedor React.Js Pleno e estudante de Analise e Desenvolvimento de Sistemas pela FATEC Prof Jessen Vidal.
+Meu nome é Leonardo Messias, tenho 23 anos, sou Desenvolvedor React.Js Pleno e estudante de Analise e Desenvolvimento de Sistemas pela FATEC Prof Jessen Vidal. 
+
+![184662980_917393018839880_6378140061902201468_n](https://user-images.githubusercontent.com/55189046/142871845-0504087c-acf1-4d4d-81ef-d58415caa2d4.jpg)
+
 
 ## Meus Projetos
 
@@ -52,7 +55,7 @@ Neste projeto inicialmente fomos uma equipe de 5 integrantes, sendo assim cada u
 * Comunicação - A Comunicação também foi muito importante para este projeto, pois sem ela não conseguiríamos definir as metas e o escopo do projeto corretamente.
 
 ### Em 2020-1
-Nosso projeto surgiu em prol de sanar uma necessidade de nosso cliente SPC BRASIL. A ferramenta, que conta com um design intuitivo e funcional, tem por objetivo ser utilizada como Data Preparation, auxiliando assim, na padronização de grandes lotes de dados antes de serem aplicados em futuros projetos.
+Nosso projeto surgiu em prol de sanar uma necessidade de nosso cliente <a href="https://www.spcbrasil.org.br/">SPC BRASIL</a>. A ferramenta, que conta com um design intuitivo e funcional, tem por objetivo ser utilizada como Data Preparation, auxiliando assim, na padronização de grandes lotes de dados antes de serem aplicados em futuros projetos.
 
 ![image](https://user-images.githubusercontent.com/57918707/87260544-dbc5ef80-c488-11ea-8987-faec80939a8b.png)
 
@@ -84,7 +87,7 @@ Neste projeto inicialmente fomos uma equipe de 5 integrantes, sendo assim cada u
 * Liderança - Nesse projeto além de Dev Team trabalhei como Scrum Master, e por mais que o Scrum Master não seja o lider da equipe ele é quem é o responsável por definir as metas e acompanhar a equipe durante as sprints para que todos consigam atingir seus objetivos.
 
 ### Em 2020-2
-VisGeo surgiu através da necessidade de nosso cliente em possuir uma ferramenta ETL (Extract, Transform and Load) de baixo custo, então ficou como nosso objetivo conseguir desenvolver uma ferramenta capaz de Extrair, Transformar e Carregar dados georreferenciados extraídos de shapefiles. Em nosso desenvolvimento também focamos em trazer uma melhor experiência e acessibilidade para o usuário, por esse motivo escolhemos que a ferramente fosse um sistema (web) e também responsiva para dispositivos moveis.
+VisGeo surgiu através da necessidade de nosso cliente em possuir uma ferramenta ETL (Extract, Transform and Load) de baixo custo, então ficou como nosso objetivo conseguir desenvolver uma ferramenta capaz de Extrair, Transformar e Carregar dados georreferenciados extraídos de shapefiles. Em nosso desenvolvimento também focamos em trazer uma melhor experiência e acessibilidade para o usuário, por esse motivo escolhemos que a ferramenta fosse um sistema (web) e também responsiva para dispositivos moveis.
 
 ![image](https://user-images.githubusercontent.com/56441371/93688444-5704dc80-fa9c-11ea-8bed-fdac35ce7337.png)
 
@@ -113,7 +116,7 @@ Neste projeto inicialmente fomos uma equipe de 9 integrantes, sendo assim cada u
 
 
 #### Hard Skills
-* Desenvolvimento de sistema web: Seu fazer com autonomia. 
+* Desenvolvimento de sistema web: Sei fazer com autonomia. 
 * Metodologia Ágil Scrum: Sei utilizar com autonomia.
 * Tratamento de arquivos georreferenciados: Sei fazer com ajuda.
 * Crud de usuários: Sei fazer com autonomia.
@@ -125,6 +128,98 @@ Neste projeto inicialmente fomos uma equipe de 9 integrantes, sendo assim cada u
 #### Soft Skills
 * Trabalho em equipe: Nesse projeto fomos uma equipe de 9 integrantes, então separamos bem o time em alguns squads, acredito que o trabalho de equipe nos ajudou muito nessa parte, esse foi o nosso projeto mais bem organizado até então.
 * Compromisso: Com uma grande time foi essencial que todos os integrantes tivessem compromisso com o Software, foi de extrema importante que todas as rodas continuassem girando sem separar.
+
+
+### Em 2021-1
+O Typext nasceu com o objetivo de criar uma ferramenta capaz de auxiliar a IACIT em uma necessidade no processo interno de criação e gerenciamento atas de reuniões. Nossa ferramenta foi um sistema Web, capaz de não só criar atas como também revisar e corrigi-las, assim gerando logs de cada ação do usuário, no final para publicar a ata era necessário que todos os usuários assinassem digitalmente, assim logo em seguida enviando a copia do documento via email.
+
+![image](https://user-images.githubusercontent.com/56441371/112768034-52dbed80-8ff0-11eb-8a72-5190c56f1090.png)
+
+
+#### Tecnologias Utilizadas
+Typext é um sistema web, e em seu desenvolvimento escolhemos utilizar algumas tecnologias cujo tinhamos uma maior afinidade, pois trabalhamos utilizando essas ferramentas no dia a dia. Para criação de telas do Typext utilizamos ReactJs com NextJs e Styled Components, também utilizamos Typescript por conta da tipagem e da orientação a objetivos. No Backend utilizamos NodeJs, PostgreSQL como banco de dados, Typescript por conta dos beneficios citados, Docker e Jest para teste unitários.
+
+![image](https://user-images.githubusercontent.com/56441371/112768909-c122af00-8ff4-11eb-98b4-5c08e4501299.png)
+
+* NodeJs - NodeJs é um ambiente de tempo de execução que é executado no mecanismo V8 do Chrome e executa o código JavaScript fora de um navegador da web. Escolhemos utiliza-lo pois além do NodeJs ser uma excelente escolha para criação de serviços backend também a qual tinhamos mais afinidade.
+
+* TypeScript - TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. Escolhemos utilizar Typescript por conta dos beneficios que ele nos trás como tipagem estáticas e também facilidades em poder escrever códigos oientados a objetos .
+
+* ReactJs - O ReactJs é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. Escolhemos utilizar esse Framework pois para nossa equipe atualmente o ReactJs é o melhor Framework para criação de interfaces, além de que nossa equipe também possuia uma grande afinidade com essa ferramenta.
+
+* NextJS - NextJ é uma estrutura da web de desenvolvimento front-end React criada por Vercel que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para aplicativos da web baseados em React. Escolhemos utilizar NextJs por conta de seus beneficios como Server-Side-Rendering e Static-Site-Generation.
+
+* PostgreSQL - PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto. Escolhemos utilizar esse banco pois além de ser um excelente banco, era o que mais tinhamos conhecimento.
+
+* Docker - Escolhemos utilizar o Docker no desenvolvimento do projeto, pois em sua utilização era nos facilitados rodar os nossos serviços em poucos passos
+
+* Jest - Jest é uma estrutura de teste de JavaScript mantida pelo Facebook, Inc. projetada e construída por Christoph Nakazawa com foco na simplicidade e suporte para grandes aplicativos da web.
+
+* StyledComponents - é uma biblioteca para React que permite usar estilos de nível de componente em seu aplicativo que são escritos com uma mistura de JavaScript e CSS usando uma técnica chamada CSS-in-JS. Escolhemos utilizar essa biblioteca por conta de poder utilizar o Javascript dentro do Css assim facilitando o desenvolvimento do design das telas e também das animações.
+
+* Swagger - Swagger é uma linguagem de descrição de interface para descrever APIs RESTful expressas usando JSON. O Swagger é usado junto com um conjunto de ferramentas de software de código aberto para projetar, construir, documentar e usar serviços da Web RESTful.
+
+#### Contribuições Pessoais
+Como no projeto anterior separamos a equipe em 2 squads, sendo o squad do Frontend e do Backend. Nesse projeto eu trabalhei no Squad do Frontend como desenvolvedor, fiquei responsável pela criação geral das telas na plataforma, sistema de autenticação, resposividade para mobile, arquitetura do projeto e também pela criação das atas em pdf, também fiz a integração do nosso frontend com nosso serviço backend via Api Rest,
+
+#### Hard Skills
+* Desenvolvimento com ReactJs: sei fazer com autonomia.
+* Desenvolvimento de serviço Rest utilizando NodeJs: sei fazer com autonomia.
+* Metodologia Ágil Scrum: Sei utilizar com autonomia.
+* Programação Orientada a Objetos: Sei fazer com autonomia.
+* Criação de containers utilizando Docker: Sei fazer com ajuda.
+* Documentação do projeto: Sei fazer com ajuda.
+* Criar wareframes da aplicação: Sei fazer com ajuda.
+* Testes unitários: sei fazer com ajuda.
+
+#### Soft Skills
+* Organização: Novamente com uma equipe de 9 pessoas, foi importante termos uma boa organização no desenvolvimento do projeto, pois assim conseguimos fazer com que todos do time tivessem algum trabalho a ser realizado.
+* Comunicação: Com 2 Squads foi de extrema importância a comunicação, que nos auxiliou em trabalhar alinhados, pois no final de cada sprint era necessário que houvesse essa comunicação entre o Frontend e Backend para que o projeto pudesse funcionar.
+* Trabalho em equipe: Trabalho em equipe talvez seja uma das maiores Soft Skills que desenvolvemos ao longo de todos os projetos, é necessário entender o colega para que o projeto vá bem, sem trabalho em equipe o projeto não sai do papel.
+
+
+### Em 2021-2
+Cars-on é um sistema web completo para venda e compras de carros online. Em nosso sistema o usuário administrador consegue subir anuncios e usuários em formato CSV, assim podendo subi-los em massa. Para o usuário comum ele será restrito a subir apenas anuncios, porém terá uma plataforma completa para vender e comprar carros online. Nossa plataforma possuí diversos filtros para facilitar o usuário a encontrar o seu carro ideal, também possuimos um Chat online onde o usuário poderá ter uma comunicação em tempo real com o possível comprador/vendedor.
+
+![image](https://user-images.githubusercontent.com/54003876/133915603-84a02ac8-f7a3-4c90-bca8-dca231fe6778.png)
+
+#### Tecnologias Utilizadas
+Neste projeto voltamos a utilizar as tecnologias que mais tempos afinidade, pois com ela a velocidade do desenvolvimento seria maior do que outras tecnologias.
+Para o desenvolvimento das telas utilizamos ReactJs com Styled Components, NextJs e Typescript. Em nosso serviço Backend e Chat escolhemos utilizar NodeJs, Typescript, MongoDB e Docker
+
+![image](https://user-images.githubusercontent.com/54003876/133913883-b2548894-17a7-4958-909e-8b110eb760d8.png)
+
+* ReactJs - O ReactJs é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. Escolhemos utilizar esse Framework pois para nossa equipe atualmente o ReactJs é o melhor Framework para criação de interfaces, além de que nossa equipe também possuia uma grande afinidade com essa ferramenta.
+
+* NextJS - NextJ é uma estrutura da web de desenvolvimento front-end React criada por Vercel que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para aplicativos da web baseados em React. Escolhemos utilizar NextJs por conta de seus beneficios como Server-Side-Rendering e Static-Site-Generation.
+
+* TypeScript - TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. Escolhemos utilizar Typescript por conta dos beneficios que ele nos trás como tipagem estáticas e também facilidades em poder escrever códigos oientados a objetos .
+
+* NodeJs - NodeJs é um ambiente de tempo de execução que é executado no mecanismo V8 do Chrome e executa o código JavaScript fora de um navegador da web. Escolhemos utiliza-lo pois além do NodeJs ser uma excelente escolha para criação de serviços backend também a qual tinhamos mais afinidade.
+
+* MongoDB - MongoDB é um software de banco de dados orientado a documentos livre. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas. Escolhemos utilizar o Mongo pois precisavamos de um banco rapido por conta da nossa funcionalidade de subir dados em massa através do CSV, e também utilizamos Mongo para criação de nosso Chat em tempo real.
+
+* Docker - Escolhemos utilizar o Docker no desenvolvimento do projeto, pois em sua utilização era nos facilitados rodar os nossos serviços em poucos passos
+
+* StyledComponents - é uma biblioteca para React que permite usar estilos de nível de componente em seu aplicativo que são escritos com uma mistura de JavaScript e CSS usando uma técnica chamada CSS-in-JS. Escolhemos utilizar essa biblioteca por conta de poder utilizar o Javascript dentro do Css assim facilitando o desenvolvimento do design das telas e também das animações.
+
+ 
+#### Contribuições Pessoais
+Nesse projeto trabalhamos com um time menor, inicialmente com 5 desenvolvedores porém finalizamos o projeto com apenas 4. Como no projeto anterior também separamos o time em 2 Squads. Minha atuação nesse projeto foi como desenvolvedor Frontend, trabalhei na criação das telas da plataforma, e também na integração com nosso serviço backend, fazendo upload de arquivos CSVs e etc.
+
+#### Hard Skills
+* Desenvolvimento com ReactJs: sei fazer com autonomia.
+* Desenvolvimento de serviço Rest utilizando NodeJs: sei fazer com autonomia.
+* Metodologia Ágil Scrum: Sei utilizar com autonomia.
+* Programação Orientada a Objetos: Sei fazer com autonomia.
+* Upload de arqivos CSV: sei fazer com ajuda.
+* Criação de containers utilizando Docker: Sei fazer com ajuda.
+* Criar wareframes da aplicação: Sei fazer com ajuda.
+
+#### Soft Skills
+* Resiliêcia: Esse projeto foi bem desafiador, enfrentamos diversos problemas e dessa vez com uma equipe bem reduzida, sendo de apenas 4 desenvolvedores, precisamos de muita resiliência para dar conta desse projeto e não desistir no meio do caminho.
+* Trabalho em equipe: Com uma equipe pequena foi de extrema importância que todos tivessem compromisso com o projeto.
+* Comunicação: Comunicação também foi de extrema importância, pois tudo precisava ser bem feito e não tinhamos o luxo de poder errar.
 
 
 ## Meus Principais Conhecimentos
