@@ -6,7 +6,7 @@ Meu nome é Leonardo Messias, tenho 23 anos, sou Desenvolvedor React.Js Pleno e 
 ## Meus Projetos
 
 ### Em 2019-2
-O Smartparking é uma solução tecnológica baseada em IOT (Internet das Coisas). O Smartparking surgiu para solucionar uma grande deficiência em mercados, shoppings e até mesmo em grandes estacionamentos, o seu objetivo principal seria ajudar com que o seu usuário pudesse encontrar de forma mais simples, vagas para estacionamento, o funcionamento do sistema se baseava em um método muito simples, em cada vaga do estacionamento deveria conter um sensor ultrassônico, o qual conectado em uma placa Arduíno enviava em tempo real ao usuário que estivesse utilizando o aplicativo todas as vagas livres e preenchidas no momento, assim facilitando com que o usuário encontrasse sua vaga para estacionar.
+O Smartparking é uma solução tecnológica baseada em IOT (Internet das Coisas). O Smartparking surgiu com o foco de resolver uma grande deficiência em mercados, shoppings, grandes estacionamentos. O seu objetivo principal seria auxilar os motoristas a encontrar vagas para estacionar de forma mais simples e rápida. O funcionamento do sistema se baseava em um método simples, em cada vaga deveria conter um sensor ultrassônico, o qual conectado em uma placa Arduíno, enviava em tempo real ao usuário que estivesse utilizando o aplicativo todas as vagas livres e preenchidas no momento, assim facilitando com que o usuário encontrasse sua vaga para estacionar com facilidade.
 
 <a href="https://github.com/LeonardoMessias98/TG1_API_1_Semestre">Link do projeto</a>
 
@@ -14,7 +14,7 @@ O Smartparking é uma solução tecnológica baseada em IOT (Internet das Coisas
 
 
 #### Tecnologias Utilizadas
-Para desenvolver a solução deste projeto precisamos utilizar tanto tecnologias de Hardware como tecnologias para Software e Banco de dados, então as principais tecnologias utilizadas foram:
+Para desenvolver a solução deste projeto foi necessário utilizar tecnologias de Hardware, Software e Banco de dados, sendo assim ass principais tecnologias utilizadas foram:
 
 
 *  Arduíno Uno - Utilizamos o Arduíno para ser o cérebro do nosso projeto, ele ficava responsável por contar as leds do estacionamento, como o sensor ultrassônico para identificar se havia carros estacionados, e por fim também era utilizado para enviar dados via Bluetooth ao aplicativo Android.
@@ -26,25 +26,25 @@ Para desenvolver a solução deste projeto precisamos utilizar tanto tecnologias
 * Modulo Bluetooth - Escolhemos o modulo Bluetooth para fazer a comunicação entre o Arduíno e o nosso aplicativo, como precisávamos desenvolver um protótipo do projeto o modulo Bluetooth foi escolhido pela sua facilidade de se integrar.
 
 
-* AppInventor - AppInventor é uma plataforma online se é possível criar aplicativos através de programação em blocos, nele desenvolvemos 2 aplicativos, o aplicativo principal onde o usuário poderia criar seu cadastro e verificar as vagas disponíveis de cada estacionamento, e um outro aplicativo para gerarmos métricas da opinião dos usuários sobre o nosso protótipo
+* AppInventor - AppInventor é uma plataforma online se é possível criar aplicativos através de programação em blocos, nele desenvolvemos 2 aplicativos, o aplicativo principal onde o usuário poderia criar seu cadastro e verificar as vagas disponíveis de cada estacionamento, e um outro aplicativo para gerarmos métricas da opinião dos usuários sobre o nosso protótipo.
 
 
-* Firebase - Utilizamos o Firebase para armazenar os dados do usuário cadastrado e também as métricas geradas no dia da apresentação, o Firebase foi escolhido por ser um banco de dados NoSql e simples de ser utilizado
+* Firebase - Utilizamos o Firebase para armazenar os dados do usuário cadastrado e também as métricas geradas no dia da apresentação, o Firebase foi escolhido por ser um banco de dados NoSql e simples de ser utilizado.
 
 
 * C++ - é uma linguagem de programação criada inicialmente para ser uma extensão do C, utilizamos para escrever o código fonte do Arduíno e sua integrações.
 
 #### Contribuições Pessoais
-Neste projeto inicialmente fomos uma equipe de 5 integrantes, sendo assim cada um ficou responsável por uma determinada área e função do projeto, no meu caso trabalhei como Dev Team assim fiquei responsável por escrever o todo código fonte do hardware (Arduino Uno) utilizando C++, neste desenvolvimento do Arduino também escrevo toda a integração com o modulo do sensor ultrassônico e também a integração com o nosso aplicativo Android utilizando um modulo Bluetooth para a comunicação, neste mesmo projeto também trabalhei no desenvolvimento mobile utilizando AppInventor para desenvolver o aplicativo Core e as suas integrações com o Firebase para gerar a criação de usuários.
+Neste projeto inicialmente fomos uma equipe de 5 integrantes, sendo assim cada um ficou responsável por uma determinada área e função do projeto. Minha atuação no projeto foi como "Dev Team", assim fiquei responsável por escrever o código fonte do hardware (Arduino Uno) utilizando C++. No desenvolvimento do Arduino também escrevi a integração com o modulo do sensor ultrassônico e também a integração com o nosso aplicativo Android, utilizando um modulo Bluetooth para a comunicação. Também trabalhei no desenvolvimento mobile utilizando AppInventor para desenvolver o aplicativo Core e as suas integrações com o Firebase para gerar a criação de usuários.
 
 #### Hard Skills
-*  Programação de placas (Arduino, NodeMcu e outras): Sei fazer com autonomia
-*  Desenvolvimento por programação em blocos: Sei fazer com autonomia
-*  Integrações com módulos Bluetooth: Sei fazer com autonomia
-*  Integrações com sensor ultrassônico: Sei fazer com autonomia
-*  Integrações com Firebase: Sei fazer com autonomia
-*  Documentação do projeto: Sei fazer com ajuda
-*  Criar wareframes da aplicação: Sei fazer com ajuda
+*  Programação de placas (Arduino, NodeMcu e outras): Sei fazer com autonomia.
+*  Desenvolvimento por programação em blocos: Sei fazer com autonomia.
+*  Integrações com módulos Bluetooth: Sei fazer com autonomia.
+*  Integrações com sensor ultrassônico: Sei fazer com autonomia.
+*  Integrações com Firebase: Sei fazer com autonomia.
+*  Documentação do projeto: Sei fazer com ajuda.
+*  Criar wareframes da aplicação: Sei fazer com ajuda.
 
 #### Soft Skills
 * Resiliência - Sendo nosso primeiro projeto dentro da faculdade enfrentamos muitos contra tempos, e a resiliência foi de grande ajuda nesse projeto.
@@ -57,25 +57,25 @@ Nosso projeto surgiu em prol de sanar uma necessidade de nosso cliente SPC BRASI
 ![image](https://user-images.githubusercontent.com/57918707/87260544-dbc5ef80-c488-11ea-8987-faec80939a8b.png)
 
 #### Tecnologias Utilizadas
-Para desenvolver a solução deste projeto tinhamos como objetivo construir uma aplicação Desktop, então as escolhas das tecnologias foram baseadas nesse objetivo, então as principais tecnologias utilizadas foram:
+Para desenvolver a solução deste projeto tinhamos como objetivo construir uma aplicação Desktop, sendo assim as escolhas foram baseadas nesse objetivo, então as principais tecnologias utilizadas foram:
 
 ![image](https://user-images.githubusercontent.com/56441214/87261156-8c34f300-c48b-11ea-89cf-a96eef22661c.png)
 
 * Electron - Electron é um Framework para criar aplicações desktop nativas com tecnologias da Web como Javascript, HTML e CSS, com esse kit de ferramentas optamos escolher esse Framework pois nos trazia grande facilidade em criar as telas da aplicação.
 
-* NodeJs - Node.js é um ambiente de tempo de execução que é executado no mecanismo V8 do Chrome e executa o código JavaScript fora de um navegador da web, escolhemos utilizar essa tecnologia, pois além da nossa afinidade com ela também não seria possível a utilização do Framework Electron
+* NodeJs - Node.js é um ambiente de tempo de execução que é executado no mecanismo V8 do Chrome e executa o código JavaScript fora de um navegador da web, escolhemos utilizar essa tecnologia, pois além da nossa afinidade com ela também não seria possível a utilização do Framework Electron.
 
-* Python - Python é uma linguagem de programação muito comumente utilizada para projetos de Data Science, escolhemos utilizar essa ferramente para fazer o tratamento de dados CSV e XLSX, sua escolha foi baseada na facilidade em trabalhar com grandes quantidades de dados
+* Python - Python é uma linguagem de programação muito comumente utilizada para projetos de Data Science, escolhemos utilizar essa ferramente para fazer o tratamento de dados CSV e XLSX, sua escolha foi baseada na facilidade em trabalhar com grandes quantidades de dados.
 
 #### Contribuições Pessoais
-Neste projeto inicialmente fomos uma equipe de 5 integrantes, sendo assim cada um ficou responsável por uma determinada área e função do projeto, no meu caso trabalhei como Scrum Master e Dev Team, como Scrum Master trabalhei junto com a equipe planejando as sprints e auxiliando o time na assimilação e compreensão da metodologia Agil Scrum que na época era algo novo para todos nos. Como Dev Team eu trabalhei tanto no tratamento inicial dos dados dos arquivos CSV e XLSX utilizando Python, como também trabalhei em nossa aplicação Core, escrevendo as telas e também o tratamento principal dos dados que optamos em escrever utilizando Javascript pois tivemos algumas dificuldades em fazer a conexão do Electron com o Python
+Neste projeto inicialmente fomos uma equipe de 5 integrantes, sendo assim cada um ficou responsável por uma determinada área e função do projeto, no meu caso trabalhei como Scrum Master e Dev Team. Como Scrum Master trabalhei junto com a equipe planejando as sprints e auxiliando o time na assimilação e compreensão da metodologia Agil Scrum, que na época era algo novo para todos nos. Como Dev Team eu trabalhei tanto no tratamento inicial dos dados dos arquivos CSV e XLSX utilizando Python. Também trabalhei em nossa aplicação Core, escrevendo as telas e realizando o tratamento principal dos dados que optamos utilizar Javascript pois tivemos algumas dificuldades em fazer a conexão do Electron com o Python.
 
 #### Hard Skills
-* Desenvolvimento de aplicativos desktop: Sei fazer com autonomia
-* Metodologia Ágil Scrum: Sei utilizar com autonomia
-* Tratamento de arquivos CSV e XSLX: Sei fazer com autonomia
-* Documentação do projeto: Sei fazer com ajuda
-* Criar wareframes da aplicação: Sei fazer com ajuda
+* Desenvolvimento de aplicativos desktop: Sei fazer com autonomia.
+* Metodologia Ágil Scrum: Sei utilizar com autonomia.
+* Tratamento de arquivos CSV e XSLX: Sei fazer com autonomia.
+* Documentação do projeto: Sei fazer com ajuda.
+* Criar wareframes da aplicação: Sei fazer com ajuda.
 
 #### Soft Skills
 * Resiliência - Este projeto foi mais complexo que o anterior, então entramos de cabeça em tecnologias diferentes e por conta disso foi bem puxado, porém conseguimos manter o foco e a resiliência foi essencial.
@@ -89,7 +89,7 @@ VisGeo surgiu através da necessidade de nosso cliente em possuir uma ferramenta
 ![image](https://user-images.githubusercontent.com/56441371/93688444-5704dc80-fa9c-11ea-8bed-fdac35ce7337.png)
 
 #### Tecnologias Utilizadas
-Em nosso projeto teve como objetivo criar um sistema (web) fazendo uma comunicação via Api Rest, para isso utilizamos o Framework ReactJs e StyledComponentes para as criações das telas, no Backend escolhemos utilizar Flask com Python e PostGis para o tratamento dos dados e o Crud de usuários utilzamos Java, o Docker também foi utilizado no Backend para facilitar a utilização da equipe de Frontend.
+Em nosso projeto tivemos como objetivo criar um sistema (Web) utilizando comunicação via Api Rest com os nossos serviços em Python. No desenvolvimento das telas utilizamos o Framework ReactJs e StyledComponents. Para o tratamento de dados escolhemos utilizar Flask com Python e PostGis e o Crud de usuários utilizamos Java, o Docker também foi utilizado no Backend para facilitar a utilização da equipe de Frontend.
 
 ![image](https://user-images.githubusercontent.com/56441371/93688825-3c803280-fa9f-11ea-9408-bd07d27aad71.png)
 
@@ -109,18 +109,18 @@ Em nosso projeto teve como objetivo criar um sistema (web) fazendo uma comunica�
 
 
 #### Contribuições Pessoais
-Neste projeto inicialmente fomos uma equipe de 9 integrantes, sendo assim cada um ficou responsável por uma determinada área e função do projeto, no meu caso trabalhei como Dev Team, por temos muito integrantes separamos a equipe em 2 squads, sendo o squad do Frontend no qual eu participei, e também o squad do Backend, no squad do Frontend fiquei responsável por escrever algumas telas da aplicação, porém a minha maior atuação foi nas integrações com nossos serviços rest, desenvolvendo a integração com o nosso serviço Flask quanto também o nosso serviço de autenticação desenvolvido em Java (Login, Register, Recovery Password).
+Neste projeto inicialmente fomos uma equipe de 9 integrantes, sendo assim cada um ficou responsável por uma determinada área e função do projeto. Por temos muitos integrantes em nosso time o separamos em 2 squads, sendo um squad de Frontend no qual eu participei como desenvolvedor, e também o squad de Backend. No squad do Frontend fiquei responsável por escrever algumas telas da aplicação, porém a minha maior atuação foi em desenvolver a integração com o nosso serviço Flask e nosso serviço de autenticação desenvolvido em Java (Login, Register, Recovery Password).
 
 
 #### Hard Skills
-* Desenvolvimento de sistema web: Seu fazer com autonomia 
-* Metodologia Ágil Scrum: Sei utilizar com autonomia
-* Tratamento de arquivos georreferenciados: Sei fazer com ajuda
-* Crud de usuários: Sei fazer com autonomia
-* Desenvolver serviço Rest utilizando Flask: Sei fazer com Autonomia
-* Criação de containers utilizando Docker: Sei fazer com ajuda
-* Documentação do projeto: Sei fazer com ajuda
-* Criar wareframes da aplicação: Sei fazer com ajuda
+* Desenvolvimento de sistema web: Seu fazer com autonomia. 
+* Metodologia Ágil Scrum: Sei utilizar com autonomia.
+* Tratamento de arquivos georreferenciados: Sei fazer com ajuda.
+* Crud de usuários: Sei fazer com autonomia.
+* Desenvolver serviço Rest utilizando Flask: Sei fazer com Autonomia.
+* Criação de containers utilizando Docker: Sei fazer com ajuda.
+* Documentação do projeto: Sei fazer com ajuda.
+* Criar wareframes da aplicação: Sei fazer com ajuda.
 
 #### Soft Skills
 * Trabalho em equipe: Nesse projeto fomos uma equipe de 9 integrantes, então separamos bem o time em alguns squads, acredito que o trabalho de equipe nos ajudou muito nessa parte, esse foi o nosso projeto mais bem organizado até então.
@@ -128,8 +128,8 @@ Neste projeto inicialmente fomos uma equipe de 9 integrantes, sendo assim cada u
 
 
 ## Meus Principais Conhecimentos
-* React.Js - ReactJs hoje é o Framework que possuo maior domínio, comecei a utilizar-lo no início de 2020 e um pouco mais na metade do mesmo ano consegui minha primeira vaga como desenvolver ReactJs, hoje sigo na mesma empresa trabalhando diariamente utilizando React, Redux, ContextApi e outros.
-* Typescript - Comecei a utilizar Typescript no final de 2020, confesso que no começo foi um pouco complexo de entender o motivo de sua utilização, mas hoje tento pleno conhecimento sempre quando posso opito utiliza-los em meus projetos dentro e fora da Fatec.
+* React.Js - ReactJs hoje é o Framework que possuo maior domínio, comecei meus estudos no início de 2020 e um pouco mais na metade do mesmo ano consegui minha primeira vaga como desenvolver ReactJs. Hoje sigo na mesma empresa trabalhando diariamente utilizando React, Redux, ContextApi e outros.
+* Typescript - Comecei a utilizar Typescript no final de 2020, no começo foi um pouco complexo de entender o motivo de sua utilização, mas hoje tento pleno conhecimento e sempre quando posso, opito utiliza-los em meus projetos dentro e fora da Fatec.
 * Git - Meu primeiro contato com Git foi dentro da Fatec no final de 2019, hoje acredito ter pleno dominio sobre essa ferramenta, utilizo diáriamente no meu serviço e também nos meus projetos dentro e fora da Fatec.
 * Trabalho em equipe - Desenvolver o trabalho em equipe foi essencial para minha carreira profissional, embora tenha levado um tempo até entender o verdadeiro objetivo por trás do desenvolvimento de software, acredito que hoje é uma das minhas maiores qualidades.
 
