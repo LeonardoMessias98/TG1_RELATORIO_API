@@ -222,6 +222,44 @@ Nesse projeto trabalhamos com um time menor, inicialmente com 5 desenvolvedores,
 * Comunicação: Comunicação também foi de extrema importância, pois tudo precisava ser bem feito e não tinhamos o luxo de poder errar.
 
 
+### Em 2022-1
+RESUOLVE - Resuolve é um serviço capaz de prever e alertar quando um sistema ficará indisponível, através de estudos com Machine Learning nosso software conseguimos calcular em que momento do dia o sistema possúi uma grande chance de ficar indisṕnível, e antes que o pior aconteça nos enviamos um mensagem para alertar os nosso clientes, a mensagem é totalmente customizada e pode ser enviada para quaisquer meios de comunicação, como Discord, Slack, Email e outros.
+
+![image](https://user-images.githubusercontent.com/55189046/166340778-34d28107-b416-49a8-ae99-8b8cfbf34039.png)
+
+#### Tecnologias Utilizadas
+Neste projeto a nossa equipe precisou mudar de Stack, então para desenvolver a aplicação de cadastro, utilizando VueJs no Frontend e Java/SpringBoot no Backend. Dessa vez o foco do nosso projeto não foi escrever uma nova ferramenta, mas sim utiliziar as já existentes no mercado. Então para o monitoramente do servidor utilizamos o Prometheus, e para a visualização e integração com o sistema de alertas escolhemos utilizar o Grafana. Para fazer previsão de indisponibilidade do sistema fizemos um treinamento dos dados com Machine Learning em Python.
+
+![image](https://user-images.githubusercontent.com/55189046/166340797-a3aca0ab-44f6-4262-81fb-e05e8be96ec1.png)
+
+* VueJs - VueJs é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única, embora a escolha dessa framework não tenha sido livre gostamos bastante em ter a oportunidade de aprender algo novo.
+
+* SpringBoot/Java - O Spring Boot é um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele traz mais agilidade para o processo de desenvolvimento, uma vez que devs conseguem reduzir o tempo gasto com as configurações iniciais.
+
+* Prometheus - O Prometheus é software gratuito usado para monitoramento e alerta de eventos. Ele grava métricas em tempo real em um banco de dados e permite consultas flexíveis e alertas em tempo real.
+
+* Grafana - Grafana é uma aplicação web de análise de código aberto multiplataforma e visualização interativa da web. Ele fornece tabelas, gráficos e alertas para a Web quando conectado a fontes de dados suportadas.
+
+* Python - Python é uma linguagem de programação de alto nível. Utilizamos essa linguagem para fazer treinamento dos modelos de dados utilizando Machine Learning
+
+ 
+#### Contribuições Pessoais
+Durante o desenvolvimento do projeto, fiquei responsável por desenvolver a aplicação Frontend de cadastros em VueJS e fazer a conexão Rest com o nosso serviço Java Backend. No projeto também trabalhei nas configurações do Prometheus, fazendo sua conexão com o Grafana e configurando as métricas de uso CPU e Ram e Request Rate e Durantion no dashboard. Também fiz a conexão do AlertManagement do Grafana com o Discord, utilizando o Webhook do mesmo.
+
+
+#### Hard Skills
+* Desenvolvimento com VueJs: sei fazer com autonomia.
+* Desenvolvimento de serviço Rest utilizando SpringBoot: sei fazer com ajuda.
+* Metodologia Ágil Scrum: Sei utilizar com autonomia.
+* Treinamento de dados com Machine Learning: sei fazer com ajuda.
+* Criação de containers utilizando Docker: Sei fazer com ajuda.
+* Criar wareframes da aplicação: Sei fazer com ajuda.
+
+#### Soft Skills
+* Resiliêcia:
+* Trabalho em equipe: 
+* Comunicação: 
+
 ## Meus Principais Conhecimentos
 * React.Js - ReactJs hoje é o Framework que possuo maior domínio, comecei meus estudos no início de 2020 e um pouco mais na metade do mesmo ano consegui minha primeira vaga como desenvolver ReactJs. Hoje sigo na mesma empresa trabalhando diariamente utilizando React, Redux, ContextApi e outros.
 * Typescript - Comecei a utilizar Typescript no final de 2020, no começo foi um pouco complexo de entender o motivo de sua utilização, mas hoje tento pleno conhecimento e sempre quando posso, opito utiliza-los em meus projetos dentro e fora da Fatec.
