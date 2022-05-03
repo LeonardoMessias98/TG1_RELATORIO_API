@@ -227,6 +227,8 @@ RESUOLVE - Resuolve é um serviço capaz de prever e alertar quando um sistema f
 
 ![image](https://user-images.githubusercontent.com/55189046/166340778-34d28107-b416-49a8-ae99-8b8cfbf34039.png)
 
+Acesse nosso repositório -> https://github.com/FatecAPITeam/management-docs
+
 #### Tecnologias Utilizadas
 Neste projeto a nossa equipe precisou mudar de Stack, então para desenvolver a aplicação de cadastro, utilizando VueJs no Frontend e Java/SpringBoot no Backend. Dessa vez o foco do nosso projeto não foi escrever uma nova ferramenta, mas sim utilizar as já existentes no mercado. Então para o monitoramente do servidor utilizamos o Prometheus, e para a visualização e integração com o sistema de alertas escolhemos utilizar o Grafana. Para fazer previsão de indisponibilidade do sistema fizemos um treinamento dos dados com Machine Learning em Python.
 
