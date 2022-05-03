@@ -217,20 +217,20 @@ Nesse projeto trabalhamos com um time menor, inicialmente com 5 desenvolvedores,
 * Criar wareframes da aplicação: Sei fazer com ajuda.
 
 #### Soft Skills
-* Resiliêcia: Esse projeto foi bem desafiador, enfrentamos diversos problemas e dessa vez com uma equipe bem reduzida, sendo de apenas 4 desenvolvedores, precisamos de muita resiliência para dar conta desse projeto e não desistir no meio do caminho.
+* Resiliência: Esse projeto foi bem desafiador, enfrentamos diversos problemas e dessa vez com uma equipe bem reduzida, sendo de apenas 4 desenvolvedores, precisamos de muita resiliência para dar conta desse projeto e não desistir no meio do caminho.
 * Trabalho em equipe: Com uma equipe pequena foi de extrema importância que todos tivessem compromisso com o projeto.
 * Comunicação: Comunicação também foi de extrema importância, pois tudo precisava ser bem feito e não tinhamos o luxo de poder errar.
 
 
 ### Em 2022-1
-RESUOLVE - Resuolve é um serviço capaz de prever e alertar quando um sistema ficará indisponível, através de estudos com Machine Learning nosso software conseguimos calcular em que momento do dia o sistema possúi uma grande chance de ficar indisṕnível, e antes que o pior aconteça nos enviamos um mensagem para alertar os nosso clientes, a mensagem é totalmente customizada e pode ser enviada para quaisquer meios de comunicação, como Discord, Slack, Email e outros.
+RESUOLVE - Resuolve é um serviço capaz de prever e alertar quando um sistema ficará indisponível, através de estudos com Machine Learning nosso software consegue calcular em que momento do dia o sistema possui uma grande chance de ficar indisponível, e antes que o pior aconteça nos enviamos uma mensagem para alertar nossos clientes, a mensagem é totalmente customizada e pode ser enviada para quaisquer meios de comunicação, como Discord, Slack, Email e outros.
 
 ![image](https://user-images.githubusercontent.com/55189046/166340778-34d28107-b416-49a8-ae99-8b8cfbf34039.png)
 
 #### Tecnologias Utilizadas
-Neste projeto a nossa equipe precisou mudar de Stack, então para desenvolver a aplicação de cadastro, utilizando VueJs no Frontend e Java/SpringBoot no Backend. Dessa vez o foco do nosso projeto não foi escrever uma nova ferramenta, mas sim utiliziar as já existentes no mercado. Então para o monitoramente do servidor utilizamos o Prometheus, e para a visualização e integração com o sistema de alertas escolhemos utilizar o Grafana. Para fazer previsão de indisponibilidade do sistema fizemos um treinamento dos dados com Machine Learning em Python.
+Neste projeto a nossa equipe precisou mudar de Stack, então para desenvolver a aplicação de cadastro, utilizando VueJs no Frontend e Java/SpringBoot no Backend. Dessa vez o foco do nosso projeto não foi escrever uma nova ferramenta, mas sim utilizar as já existentes no mercado. Então para o monitoramente do servidor utilizamos o Prometheus, e para a visualização e integração com o sistema de alertas escolhemos utilizar o Grafana. Para fazer previsão de indisponibilidade do sistema fizemos um treinamento dos dados com Machine Learning em Python.
 
-![image](https://user-images.githubusercontent.com/55189046/166340797-a3aca0ab-44f6-4262-81fb-e05e8be96ec1.png)
+![image](https://user-images.githubusercontent.com/55189046/166345270-24c17de1-3f4c-4687-9c81-06cb28afd5e3.png)
 
 * VueJs - VueJs é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única, embora a escolha dessa framework não tenha sido livre gostamos bastante em ter a oportunidade de aprender algo novo.
 
@@ -256,9 +256,9 @@ Durante o desenvolvimento do projeto, fiquei responsável por desenvolver a apli
 * Criar wareframes da aplicação: Sei fazer com ajuda.
 
 #### Soft Skills
-* Resiliêcia:
-* Trabalho em equipe: 
-* Comunicação: 
+* Resiliência: Durante esse projeto passamos por diversas dificuldades, tanto na parte pessoas mas também em entender o desafio e como cumpri-lo, acredito que resiliência foi uma das Soft Skills essenciais para esse projeto.
+* Trabalho em equipe: Esse trabalho de longe foi o mais profundo, tivemos muita necessidade em fazer o trabalho em equipe funcionar, e separando bem as respondibilidades conseguimos fazer-lo funcionar.
+* Comunicação: Comunicação foi essencial ao longo do projeto, sabemos o quão difícil é desenvolver um projeto sem que todas as pessoas envolvidas saibam exatamente para onde estamos caminhando. Comunicação foi a chave para a vitória nesse projeto.
 
 ## Meus Principais Conhecimentos
 * React.Js - ReactJs hoje é o Framework que possuo maior domínio, comecei meus estudos no início de 2020 e um pouco mais na metade do mesmo ano consegui minha primeira vaga como desenvolver ReactJs. Hoje sigo na mesma empresa trabalhando diariamente utilizando React, Redux, ContextApi e outros.
